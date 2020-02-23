@@ -30,4 +30,4 @@ while sum_digits(num) >= 10:
     return s ##me afto to while o telikos arithmos einai sigoura monopsifios
 
 else:
-  print(sum_digits(num)) ##prostithontai ta psifia tou arithmou pou prokiptei
+  print("Ο αριθμός που προκύπτει είναι:", sum_digits(num)) ##prostithontai ta psifia tou arithmou pou prokiptei
